@@ -33,7 +33,7 @@ The app decodes and verifies the message automatically
 1. Install dependencies
 pip install opencv-python numpy pillow
 2. Run the app
-python app.py
+python script.py
 📁 Supported Formats
 ✅ PNG (recommended)
 ✅ BMP / TIFF
